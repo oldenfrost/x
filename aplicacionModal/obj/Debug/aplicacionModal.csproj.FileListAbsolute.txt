@@ -1,0 +1,10 @@
+C:\Users\eduar\OneDrive\Escritorio\practica\aplicacionModal\aplicacionModal\bin\Debug\aplicacionModal.exe.config
+C:\Users\eduar\OneDrive\Escritorio\practica\aplicacionModal\aplicacionModal\bin\Debug\aplicacionModal.exe
+C:\Users\eduar\OneDrive\Escritorio\practica\aplicacionModal\aplicacionModal\bin\Debug\aplicacionModal.pdb
+C:\Users\eduar\OneDrive\Escritorio\practica\aplicacionModal\aplicacionModal\obj\Debug\aplicacionModal.csproj.AssemblyReference.cache
+C:\Users\eduar\OneDrive\Escritorio\practica\aplicacionModal\aplicacionModal\obj\Debug\aplicacionModal.Form1.resources
+C:\Users\eduar\OneDrive\Escritorio\practica\aplicacionModal\aplicacionModal\obj\Debug\aplicacionModal.Properties.Resources.resources
+C:\Users\eduar\OneDrive\Escritorio\practica\aplicacionModal\aplicacionModal\obj\Debug\aplicacionModal.csproj.GenerateResource.cache
+C:\Users\eduar\OneDrive\Escritorio\practica\aplicacionModal\aplicacionModal\obj\Debug\aplicacionModal.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Escritorio\practica\aplicacionModal\aplicacionModal\obj\Debug\aplicacionModal.exe
+C:\Users\eduar\OneDrive\Escritorio\practica\aplicacionModal\aplicacionModal\obj\Debug\aplicacionModal.pdb
